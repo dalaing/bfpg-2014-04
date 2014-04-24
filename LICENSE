@@ -1,0 +1,12 @@
+This works is licensed under the Creative Commons Attribution 3.0 License:
+  https://creativecommons.org/licenses/by/3.0/
+
+Portions of the lecture are by Brent Yorgey:
+  http://www.cis.upenn.edu/~byorgey/
+from his lecture course:
+  http://www.seas.upenn.edu/~cis194/
+which is also under a Creative Commons Attribution license
+
+The file 'reveal.patch' is a patch for the minified css from the reveal.js project:
+  https://github.com/hakimel/reveal.js
+and so is under the MIT License as per the reveal.js project.
