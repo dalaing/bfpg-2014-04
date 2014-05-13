@@ -12,6 +12,11 @@ to build them, provided you have git and the Haskell Platform installed.
 
 This will install pandoc, which might take a little while.
 
+Video
+=====
+
+http://vimeo.com/92992647
+
 Code
 ====
 
